@@ -6,7 +6,7 @@
 
 </h1>
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ![Maintainer](https://img.shields.io/badge/Maintainer-AryanJ2004-blue)
+![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-green.svg) ![Maintainer](https://img.shields.io/badge/Maintainer-AryanJ2004-blue)
 
 <h2> "Ask Me Anything"</h2>
 
