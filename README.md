@@ -19,7 +19,7 @@
 <a href="https://www.instagram.com/aryan_jain_1006" target="_blank" ><img src="https://img.shields.io/badge/@aryan_jain_1006-30302f?style=flat&logo=instagram" alt=""></a>
 <a href="http://t.me/AryanJ2004"  target="_blank" ><img src="https://img.shields.io/badge/AryanJ2004-30302f?style=flat&logo=telegram" alt=""></a> <a href="https://www.linkedin.com/" target="_blank" ><img
         src="https://img.shields.io/badge/AryanJ2004-30302f?style=flat&logo=linkedin" alt=""></a>
-<a href="https://twitter.com/" target="_blank" ><img
+<a href="https://twitter.com/AryanJ2004" target="_blank" ><img
         src="https://img.shields.io/badge/@AryanJ2004-30302f?style=flat&logo=twitter" alt=""></a>
 
 
