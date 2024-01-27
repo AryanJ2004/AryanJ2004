@@ -13,7 +13,8 @@
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20Me-Anything-1abc9c.svg)](https://github.com/AryanJ2004/AryanJ2004/issues/new) ![](https://komarev.com/ghpvc/?username=AryanJ2004) 
 
 <h2>Find Me Elsewhere</h2>
-<a href="https://www.linkedin.com/" target="_blank" ><img
+<a href="https://www.linkedin.com/AryanJ2004
+        " target="_blank" ><img
         src="https://img.shields.io/badge/AryanJ2004-30302f?style=flat&logo=linkedin" alt=""></a>
 <a href="https://twitter.com/AryanJ2004" target="_blank" ><img
         src="https://img.shields.io/badge/@AryanJ2004-30302f?style=flat&logo=twitter" alt=""></a>
