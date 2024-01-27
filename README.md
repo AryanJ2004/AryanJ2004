@@ -13,14 +13,14 @@
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20Me-Anything-1abc9c.svg)](https://github.com/AryanJ2004/AryanJ2004/issues/new) ![](https://komarev.com/ghpvc/?username=AryanJ2004) 
 
 <h2>Find Me Elsewhere</h2>
-
-<a href="mailto:aryanj1084@gmail.com" target="_blank" ><img
-        src="https://img.shields.io/badge/@aryanj1084@gmail.com-30302f?style=flat&logo=gmail" alt=""></a>
-<a href="https://www.instagram.com/aryan_jain_1006" target="_blank" ><img src="https://img.shields.io/badge/@aryan_jain_1006-30302f?style=flat&logo=instagram" alt=""></a>
-<a href="http://t.me/AryanJ2004"  target="_blank" ><img src="https://img.shields.io/badge/AryanJ2004-30302f?style=flat&logo=telegram" alt=""></a> <a href="https://www.linkedin.com/" target="_blank" ><img
+<a href="https://www.linkedin.com/" target="_blank" ><img
         src="https://img.shields.io/badge/AryanJ2004-30302f?style=flat&logo=linkedin" alt=""></a>
 <a href="https://twitter.com/AryanJ2004" target="_blank" ><img
         src="https://img.shields.io/badge/@AryanJ2004-30302f?style=flat&logo=twitter" alt=""></a>
+<a href="mailto:aryanj1084@gmail.com" target="_blank" ><img
+        src="https://img.shields.io/badge/@aryanj1084@gmail.com-30302f?style=flat&logo=gmail" alt=""></a>
+<a href="https://www.instagram.com/aryan_jain_1006" target="_blank" ><img src="https://img.shields.io/badge/@aryan_jain_1006-30302f?style=flat&logo=instagram" alt=""></a>
+<a href="http://t.me/AryanJ2004"  target="_blank" ><img src="https://img.shields.io/badge/AryanJ2004-30302f?style=flat&logo=telegram" alt=""></a> 
 
 
 
