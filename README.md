@@ -41,7 +41,7 @@
 <p align ="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanJ2004&theme=outrun" alt="">
 </p>
-
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=AryanJ2004&show_icons=true alt=AryanJ2004 /> </p>
 
 
 
