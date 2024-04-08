@@ -40,13 +40,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanJ2004&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
 </div>
 
-<div style="text-align:center;">
-        <hr style="height:1px;">
-   <p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote">
-</div>
-
-
 
 
 <!--
