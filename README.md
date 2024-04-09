@@ -40,7 +40,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanJ2004&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
 </div>
 
+<h2>Top Repositories</h2>
 
+<div width="100%" align="center"><a href="https://github.com/AryanJ2004/Leetcode-Solution" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AryanJ2004&repo=Leetcode-Solution&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/AryanJ2004/Leetcode-Mar-Challange" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AryanJ2004&repo=Leetcode-Mar-Challange&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <!--
 
