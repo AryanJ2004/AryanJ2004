@@ -44,6 +44,9 @@
 
 <div width="100%" align="center"><a href="https://github.com/AryanJ2004/Leetcode-Solution" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AryanJ2004&repo=Leetcode-Solution&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/AryanJ2004/Leetcode-Mar-Challange" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AryanJ2004&repo=Leetcode-Mar-Challange&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
+<h2>GitHub Profile Trophy 🏆</h2>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AryanJ2004&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 
 -->
