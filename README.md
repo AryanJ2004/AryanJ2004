@@ -42,7 +42,7 @@
 
 <h2>Top Repositories</h2>
 
-<div width="100%" align="center"><a href="https://github.com/AryanJ2004/SNJB-College-Chatbot" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AryanJ2004&repo=SNJB-College-Chatbot&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/AryanJ2004/Leetcode-Solution" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AryanJ2004&repo=Leetcode-Solution&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/AryanJ2004/SNJB-College-Chatbot" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AryanJ2004&repo=SNJB-College-Chatbot&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/AryanJ2004/3D-Personal-Portfolio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AryanJ2004&repo=3D-Personal-Portfolio&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <h2>GitHub Profile Trophy 🏆</h2>
 
