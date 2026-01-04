@@ -35,16 +35,19 @@
 
 <div style="text-align:center;">
          <hr style="height:1px;">
-   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AryanJ2004&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats">
-    <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AryanJ2004&theme=tokyonight&hide_border=false" alt="GitHub Streak">
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanJ2004&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
+   <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aryanj2004&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"> -->
+    <p align="center">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=aryanj2004&theme=dark&hide_border=false" alt="GitHub Streak">
+    </p>
+    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanj2004&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"> -->
 </div>
 
-<h2>Top Repositories</h2>
-
-<div width="100%" align="center"><a href="https://github.com/AryanJ2004/SNJB-College-Chatbot" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AryanJ2004&repo=SNJB-College-Chatbot&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/AryanJ2004/3D-Personal-Portfolio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AryanJ2004&repo=3D-Personal-Portfolio&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<!-- <h2>Top Repositories</h2>
+<div style="text-align:center">
+        <p align="center">
+                <img src="https://github-contributor-stats.vercel.app/api?username=aryanj2004&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repo">
+        </p>
+<div width="100%" align="center"><a href="https://github.com/AryanJ2004/SNJB-College-Chatbot" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AryanJ2004&repo=SNJB-College-Chatbot&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/AryanJ2004/3D-Personal-Portfolio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AryanJ2004&repo=3D-Personal-Portfolio&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /> -->
 
 <h2>GitHub Profile Trophy 🏆</h2>
 
